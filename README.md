@@ -15,6 +15,7 @@ Welcome to the **50 Days of Data Structures and Algorithms Challenge in Python**
 | Day | Topic                              | Notes & Code                   |
 |-----|------------------------------------|---------------------------------|
 | 1   | Object-Oriented Programming (OOP) | [Day 1 - OOP Notes]([link_here]([url](https://www.linkedin.com/posts/charan-g052920001_notes-on-oops-by-charan-g-activity-7288151194982588416-ng04?utm_source=share&utm_medium=member_desktop))) |
+| 2   | Hangman Implementation            | [Day 2 - Hangman Code](https://github.com/charangovind29/DSA-in-Python/tree/main) |
 
 ---
 

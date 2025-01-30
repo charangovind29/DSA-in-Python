@@ -17,6 +17,9 @@ Welcome to the **50 Days of Data Structures and Algorithms Challenge in Python**
 | 1   | Object-Oriented Programming (OOP) | [Day 1 - OOP Notes]([(https://github.com/charangovind29/DSA-in-Python/blob/main/Notes%20on%20ObjectOrientedProgramming.pdf)]) |
 | 2   | Hangman Implementation            | [Day 2 - Hangman Code]([https://github.com/charangovind29/DSA-in-Python/tree/main](https://github.com/charangovind29/DSA-in-Python/blob/main/OOPs%20Hangman%20Project.py)) |
 | 3   | Introduction to Linked List       | Day 3 - Linked List Notes|
+| 4   | Notes of Singly linked list       | Day 4 - SLL notes|
+| 5   | Code of Singly linked list        | Day 5 - SLL Code|
+
 ---
 
 🤝 Contribute
